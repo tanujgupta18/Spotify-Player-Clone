@@ -1,8 +1,51 @@
-# React + Vite
+# Spotify Player Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Spotify clone built using React and Tailwind CSS. This project showcases a static version of Spotify's interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse songs and playlists
+- Play, pause, and skip songs
+- Responsive design
+
+## Tech Stack
+
+- **Frontend**: React, Tailwind CSS
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/tanujgupta18/Spotify-Player-Clone.git
+   cd Spotify-Player-Clone
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+   The application will open in your browser at `http://localhost:5173`.
